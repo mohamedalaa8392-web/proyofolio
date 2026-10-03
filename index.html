@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohamed Alaa | Programming Student & Front-End Developer</title>
+    <meta name="description" content="Professional portfolio of Mohamed Alaa, a Programming Student and Front-End Developer interested in web development, programming and data analysis.">
+    <meta name="keywords" content="Mohamed Alaa, Front-End Developer, Web Development, Data Analysis, Portfolio, HTML, CSS, JavaScript">
+    
+    <!-- Open Graph Metadata -->
+    <meta property="og:title" content="Mohamed Alaa | Personal Portfolio">
+    <meta property="og:description" content="Explore my projects, certificates, interactive CV, and technical background.">
+    <meta property="og:type" content="website">
+    
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Custom Cursor -->
+    <div class="cursor-dot" data-cursor-dot></div>
+    <div class="cursor-outline" data-cursor-outline></div>
+
+    <!-- Preloader
+    <div class="preloader" id="preloader">
+        <div class="spinner"></div>
+        <div class="preloader-text">Loading Mohamed's Portfolio...</div>
+    </div> -->
+
+    <!-- Navigation Bar -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="#home" class="nav-logo">MA<span>.</span></a>
+            <ul class="nav-menu" id="nav-menu">
+                <li class="nav-item"><a href="#home" class="nav-link active">Home</a></li>
+                <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+                <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+                <li class="nav-item"><a href="#certificates" class="nav-link">Certificates</a></li>
+                <li class="nav-item"><a href="#activities" class="nav-link">Activities</a></li>
+                <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                <li class="nav-item"><a href="#resume" class="nav-link">Resume</a></li>
+                <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
+            </ul>
+            <div class="nav-actions">
+                <button class="theme-toggle" id="theme-toggle" aria-label="Toggle Theme">
+                    <i class="fa-solid fa-moon"></i>
+                </button>
+                <button class="hamburger" id="hamburger" aria-label="Toggle Menu">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="hero-container">
+            <div clasخs="hero-contentزمز
+                <span class="hero-greeting">Hi, I'm Mohamed Alaa</span>
+                <h1 class="hero-title">
+                    <span class="typed-text" id="typed-text"></span><span class="cursor">&nbsp;</span>
+                </h1>
+                <p class="hero-description">
+                    I build modern, responsive and interactive web experiences while continuously developing my skills in programming, web development and data analysis.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#projects" class="btn btn-primary ripple">View My Projects <i class="fa-solid fa-arrow-right"></i></a>
+                    <a href="#contact" class="btn btn-secondary ripple">Contact Me</a>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <div class="profile-card-3d" id="profileCard">
+                    <div class="image-wrapper">
+                        <img src="assets/profile.jpg" alt="Mohamed Alaa Profile" onerror="this.src='https://via.placeholder.com/400x500?text=Mohamed+Alaa'">
+                    </div>
+                    <div class="floating-badge badge-1">
+                        <i class="fa-brands fa-js"></i> Front-End
+                    </div>
+                    <div class="floating-badge badge-2">
+                        <i class="fa-solid fa-chart-pie"></i> Data Analysis
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-down">
+            <a href="#about" aria-label="Scroll Down"><i class="fa-solid fa-chevron-down"></i></a>
+        </div>
+    </section>
+
+    <!-- About Me Section -->
+    <section class="about section" id="about">
+        <div class="container">
+            <h2 class="section-title">About <span>Me</span></h2>
+            <div class="about-grid">
+                <div class="about-text">
+                    <h3>Building Solutions Through Code & Analytics</h3>
+                    <p>
+                        I am a dedicated programming student at the College of Technology and Energy with a passionate drive for technological problem-solving. My core interest spans across Front-End Web Development, Systems Architecture, and Data Analysis.
+                    </p>
+                    <p>
+                        I specialize in transforming complex structural requirements into smooth, intuitive UI/UX experiences, backed by solid database management principles. I actively sharpen my skills through practical application development, technical courses, algorithmic competitions, and persistent self-learning.
+                    </p>
+                    <div class="about-info">
+                        <div class="info-item">
+                            <span class="info-label">Name:</span>
+                            <span class="info-val">Mohamed Alaa</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">Education:</span>
+                            <span class="info-val">College of Technology and Energy (Programming Dept.)</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">Email:</span>
+                            <span class="info-val">mohamedalaa8392@gmail.com</span>
+                        </div>
+                        <div class="info-item">
+                            <span class="info-label">Phone:</span>
+                            <span class="info-val">01142806457</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="skills section" id="skills">
+        <div class="container">
+            <h2 class="section-title">Technical <span>Skills</span></h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3><i class="fa-solid fa-code"></i> Programming</h3>
+                    <div class="skill-tags">
+                        <span class="skill-card"><i class="fa-brands fa-python"></i> Python</span>
+                        <span class="skill-card"><i class="fa-solid fa-c"></i> C++</span>
+                        <span class="skill-card"><i class="fa-brands fa-js"></i> JavaScript</span>
+                        <span class="skill-card"><i class="fa-brands fa-php"></i> PHP</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3><i class="fa-solid fa-laptop-code"></i> Web Development</h3>
+                    <div class="skill-tags">
+                        <span class="skill-card"><i class="fa-brands fa-html5"></i> HTML5</span>
+                        <span class="skill-card"><i class="fa-brands fa-css3-alt"></i> CSS3</span>
+                        <span class="skill-card"><i class="fa-brands fa-square-js"></i> JavaScript</span>
+                        <span class="skill-card"><i class="fa-brands fa-php"></i> PHP</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3><i class="fa-solid fa-database"></i> Database</h3>
+                    <div class="skill-tags">
+                        <span class="skill-card"><i class="fa-solid fa-server"></i> MySQL</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3><i class="fa-solid fa-chart-bar"></i> Data</h3>
+                    <div class="skill-tags">
+                        <span class="skill-card"><i class="fa-solid fa-file-excel"></i> Microsoft Excel</span>
+                        <span class="skill-card"><i class="fa-solid fa-filter"></i> Power Query</span>
+                        <span class="skill-card"><i class="fa-solid fa-broom"></i> Data Cleaning</span>
+                        <span class="skill-card"><i class="fa-solid fa-chart-line"></i> Data Analysis</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3><i class="fa-solid fa-gears"></i> Other & Tools</h3>
+                    <div class="skill-tags">
+                        <span class="skill-card"><i class="fa-brands fa-linux"></i> Linux</span>
+                        <span class="skill-card"><i class="fa-brands fa-ubuntu"></i> Ubuntu</span>
+                        <span class="skill-card"><i class="fa-solid fa-network-wired"></i> Networking</span>
+                        <span class="skill-card"><i class="fa-solid fa-pen-nib"></i> UI/UX</span>
+                        <span class="skill-card"><i class="fa-brands fa-git-alt"></i> Git/GitHub</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="projects section" id="projects">
+        <div class="container">
+            <h2 class="section-title">Featured <span>Projects</span></h2>
+            <div class="projects-grid">
+                <!-- Main Project -->
+                <div class="project-card tilt-card">
+                    <div class="project-img">
+                        <img src="assets/novelix.jpg" alt="NOVELIX LIBRARY" onerror="this.src='https://via.placeholder.com/600x400?text=NOVELIX+LIBRARY'">
+                    </div>
+                    <div class="project-content">
+                        <h3>NOVELIX LIBRARY</h3>
+                        <p>An intelligent online library platform designed for buying and reading books.</p>
+                        <ul class="project-features">
+                            <li><i class="fa-solid fa-check"></i> Authentication System & Cart Management</li>
+                            <li><i class="fa-solid fa-check"></i> Full Database Integration with Search Functions</li>
+                        </ul>
+                        <div class="tech-badges">
+                            <span>HTML</span><span>CSS</span><span>JavaScript</span><span>PHP</span><span>MySQL</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://chimerical-novlix-projec.netlify.app" target="_blank" rel="noopener" class="btn btn-primary ripple">View Project <i class="fa-solid fa-external-link"></i></a>
+                            <a href="#" class="btn btn-icon" aria-label="GitHub Repository"><i class="fa-brands fa-github"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Coming Soon Placeholder 1 -->
+                <div class="project-card coming-soon">
+                    <div class="project-content">
+                        <span class="status-badge">In Development</span>
+                        <h3>Analytics Dashboard</h3>
+                        <p>A data visualization and analytical tool processing real-time dataset structures.</p>
+                        <div class="tech-badges">
+                            <span>Python</span><span>Data Analysis</span><span>JavaScript</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Coming Soon Placeholder 2 -->
+                <div class="project-card coming-soon">
+                    <div class="project-content">
+                        <span class="status-badge">Planned</span>
+                        <h3>UI/UX Portfolio Showcase</h3>
+                        <p>Next-generation user interaction platform focused on accessibility and design system implementations.</p>
+                        <div class="tech-badges">
+                            <span>UI/UX</span><span>CSS3</span><span>Vanilla JS</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Certificates Section -->
+    <section class="certificates section" id="certificates">
+        <div class="container">
+            <h2 class="section-title">Certificates & <span>Credentials</span></h2>
+            <div class="certificates-grid">
+                <!-- Certificate 1 -->
+                <div class="cert-card">
+                    <div class="cert-header">
+                        <i class="fa-brands fa-ubuntu cert-icon"></i>
+                        <div>
+                            <h3>Ubuntu Linux Essentials</h3>
+                            <span class="cert-platform">ITI / Mahara-Tech</span>
+                        </div>
+                    </div>
+                    <div class="cert-body">
+                        <p><i class="fa-regular fa-clock"></i> 7 Hours 20 Minutes</p>
+                        <p><i class="fa-regular fa-calendar"></i> Issued: 18/05/2026</p>
+                    </div>
+                    <button class="btn btn-secondary ripple open-cert-btn" data-cert="assets/certificate-linux.jpg" data-title="Ubuntu Linux Essentials">View Certificate</button>
+                </div>
+
+                <!-- Certificate 2 -->
+                <div class="cert-card">
+                    <div class="cert-header">
+                        <i class="fa-solid fa-award cert-icon"></i>
+                        <div>
+                            <h3>Data Fundamentals</h3>
+                            <span class="cert-platform">IBM SkillsBuild</span>
+                        </div>
+                    </div>
+                    <div class="cert-body">
+                        <p><i class="fa-solid fa-layer-group"></i> Comprehensive Analytics Track</p>
+                        <p><i class="fa-regular fa-calendar"></i> Active Badge Credential</p>
+                    </div>
+                    <button class="btn btn-secondary ripple open-cert-btn" data-cert="assets/certificate-ibm.jpg" data-title="IBM SkillsBuild Data Fundamentals">View Certificate</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Activities & Achievements Section -->
+    <section class="activities section" id="activities">
+        <div class="container">
+            <h2 class="section-title">Activities & <span>Achievements</span></h2>
+            <div class="activities-grid">
+                <div class="activity-card">
+                    <div class="act-icon"><i class="fa-solid fa-trophy"></i></div>
+                    <h3>Technical Activities</h3>
+                    <p>Active competitor in regional programming contests, web development challenges, and UI/UX prototyping hackathons.</p>
+                </div>
+                <div class="activity-card">
+                    <div class="act-icon"><i class="fa-solid fa-book-quran"></i></div>
+                    <h3>Cultural Activities</h3>
+                    <p>Dedicated engagement in Quran Recitation disciplines, focusing on precision, memory, and structural audio delivery.</p>
+                </div>
+                <div class="activity-card">
+                    <div class="act-icon"><i class="fa-solid fa-person-swimming"></i></div>
+                    <h3>Sports Activities</h3>
+                    <p>Competitive football enthusiast and skilled swimmer, maintaining daily physical balance and team communication.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Education Section -->
+    <section class="education section" id="education">
+        <div class="container">
+            <h2 class="section-title">Education <span>Journey</span></h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-dot"></div>
+                    <div class="timeline-content">
+                        <span class="timeline-date">Current Student</span>
+                        <h3>College of Technology and Energy</h3>
+                        <h4>Department of Programming</h4>
+                        <p>Specializing in software engineering fundamentals, algorithmic structures, data management, and client-side web technologies.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Resume Section -->
+    <section class="resume section" id="resume">
+        <div class="container">
+            <h2 class="section-title">Interactive <span>Resume</span></h2>
+            <div class="resume-wrapper">
+                <div class="resume-card tilt-card" id="resumeCard">
+                    <div class="resume-badge"><i class="fa-solid fa-file-pdf"></i> PDF Document</div>
+                    <div class="resume-info">
+                        <h3>Mohamed Alaa – CV</h3>
+                        <p class="subtitle">Explore my complete professional background, verified projects, and academic standings.</p>
+                        <div class="resume-meta">
+                            <span><i class="fa-solid fa-check-double"></i> Ready to View</span>
+                            <span><i class="fa-regular fa-clock"></i> Updated: 2026</span>
+                        </div>
+                    </div>
+                    <div class="resume-actions">
+                        <button class="btn btn-primary ripple" id="viewCvBtn"><i class="fa-solid fa-eye"></i> View CV</button>
+                        <a href="assets/cv.pdf" download="Mohamed-Alaa-CV.pdf" class="btn btn-secondary ripple" id="downloadCvBtn"><i class="fa-solid fa-download"></i> Download CV</a>
+                        <button class="btn btn-icon ripple" id="printCvBtn" title="Print CV"><i class="fa-solid fa-print"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact section" id="contact">
+        <div class="container">
+            <h2 class="section-title">Get In <span>Touch</span></h2>
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <h3>Contact Details</h3>
+                    <p>Feel free to reach out for project opportunities, technical discussions, or collaboration.</p>
+                    <div class="contact-items">
+                        <div class="contact-item">
+                            <i class="fa-solid fa-envelope"></i>
+                            <div>
+                                <h4>Email</h4>
+                                <a href="mailto:mohamedalaa8392@gmail.com">mohamedalaa8392@gmail.com</a>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fa-solid fa-phone"></i>
+                            <div>
+                                <h4>Phone</h4>
+                                <a href="tel:01142806457">01142806457</a>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fa-brands fa-linkedin"></i>
+                            <div>
+                                <h4>LinkedIn</h4>
+                                <a href="https://www.linkedin.com/in/mohammed-alaa-87a5863b1/" target="_blank" rel="noopener">Connect on LinkedIn</a>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fa-brands fa-instagram"></i>
+                            <div>
+                                <h4>Instagram</h4>
+                                <a href="https://www.instagram.com/mohammedalaa4916/" target="_blank" rel="noopener">Follow on Instagram</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-form-wrapper">
+                    <form id="contactForm" class="contact-form" novalidate>
+                        <div class="form-group">
+                            <input type="text" id="name" required placeholder="Your Name">
+                            <span class="error-msg" id="nameError"></span>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" id="email" required placeholder="Your Email">
+                            <span class="error-msg" id="emailError"></span>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" id="subject" required placeholder="Subject">
+                            <span class="error-msg" id="subjectError"></span>
+                        </div>
+                        <div class="form-group">
+                            <textarea id="message" rows="5" required placeholder="Your Message"></textarea>
+                            <span class="error-msg" id="messageError"></span>
+                        </div>
+                        <button type="submit" class="btn btn-primary ripple">Send Message <i class="fa-solid fa-paper-plane"></i></button>
+                        <div class="form-status" id="formStatus"></div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-content">
+            <h3>Mohamed Alaa</h3>
+            <p>"Building, learning and creating with code."</p>
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/mohammed-alaa-87a5863b1/" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="https://www.instagram.com/mohammedalaa4916/" target="_blank" rel="noopener" aria-label="Instagram"><i class="fa-brands fa-instagram"></i></a>
+            </div>
+            <p class="copyright">&copy; 2026 Mohamed Alaa. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Scroll To Top Button -->
+    <button class="scroll-top" id="scrollTop" aria-label="Scroll to top">
+        <i class="fa-solid fa-arrow-up"></i>
+    </button>
+
+    <!-- Certificate Modal -->
+    <div class="modal" id="certModal">
+        <div class="modal-content">
+            <button class="modal-close" id="certModalClose">&times;</button>
+            <h3 id="certModalTitle">Certificate View</h3>
+            <div class="modal-body">
+                <img id="certModalImg" src="" alt="Certificate Display">
+            </div>
+        </div>
+    </div>
+
+    <!-- CV Fullscreen Viewer Modal -->
+    <div class="modal" id="cvModal">
+        <div class="modal-content modal-large">
+            <div class="modal-header">
+                <h3>Curriculum Vitae – Mohamed Alaa</h3>
+                <div class="modal-controls">
+                    <button class="btn btn-icon" id="fullscreenCvBtn" title="Toggle Fullscreen"><i class="fa-solid fa-expand"></i></button>
+                    <button class="modal-close" id="cvModalClose">&times;</button>
+                </div>
+            </div>
+            <div class="modal-body iframe-container" id="cvIframeContainer">
+                <!-- Fallback content or iframe injected via JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Main JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,489 @@
+Create a professional, modern, interactive personal portfolio website for me as a Junior Data Analyst and Programming/Data Analysis student.
+
+The portfolio should look like a real professional portfolio suitable for:
+- Freelancing
+- Internship applications
+- Junior Data Analyst jobs
+- DEPI submission
+- LinkedIn and professional networking
+
+========================================
+PERSONAL INFORMATION
+========================================
+
+Name:
+Mohamed Alaa
+
+Professional Title:
+Junior Data Analyst | Data Analysis Student | Dashboard Developer
+
+Short Professional Description:
+I am a passionate Data Analysis student focused on transforming raw data into meaningful insights, interactive dashboards, and clear visual stories that support better decision-making.
+
+I am continuously developing my skills in Data Analysis, Data Visualization, Excel, Power BI, SQL, Python, and programming.
+
+========================================
+MY USP
+========================================
+
+Use this as my main Unique Selling Proposition:
+
+"I transform raw data into clear, interactive dashboards and actionable insights using Excel, Power BI, SQL, and Python."
+
+Make the USP visually prominent on the homepage.
+
+========================================
+ABOUT ME
+========================================
+
+Create an About Me section explaining that I am a student specializing in Data Analysis and interested in turning complex datasets into understandable and useful information.
+
+I have practical experience working with:
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Interactive Dashboards
+- Excel
+- Power Query
+- Power Pivot
+- Power BI
+- SQL
+- Python
+
+I also have programming and web development experience through academic and personal projects.
+
+Keep the writing professional, confident, realistic, and not exaggerated.
+
+========================================
+MAIN SKILLS
+========================================
+
+Create a visually attractive skills section with categories.
+
+Data Analysis:
+- Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Data Storytelling
+
+Microsoft & BI:
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- Power BI
+- Interactive Dashboards
+- Pivot Tables
+
+Programming:
+- Python
+- SQL
+- C++
+- Java
+
+Web Development:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- PHP
+- MySQL
+
+Framework / Tools:
+- Qt Framework
+
+Also include algorithmic/problem-solving experience and provide placeholders for:
+- LeetCode
+- Codeforces
+- Codewars
+
+========================================
+FEATURED PROJECTS
+========================================
+
+Create a professional Projects section with detailed project cards.
+
+PROJECT 1:
+Customer Marketing Performance Dashboard
+
+Category:
+Data Analysis / Business Intelligence
+
+Description:
+A complete data analysis and business intelligence project focused on analyzing customer marketing performance and transforming raw data into an interactive dashboard.
+
+Tools:
+- Excel
+- Power Query
+- Power Pivot
+- Power BI
+
+Workflow:
+1. Collected the dataset.
+2. Cleaned and prepared the data using Power Query.
+3. Performed data transformation and analysis.
+4. Built data models using Power Pivot.
+5. Created an interactive dashboard using Power BI.
+6. Designed KPIs and visualizations to communicate business insights.
+
+Dashboard KPIs:
+- Total Customers Reached: 142,680
+- Total Campaigns: 42
+- Total Conversions: 9,256
+- Conversion Rate: 6.48%
+
+The dashboard includes:
+- Customer reach analysis
+- Campaign performance
+- Conversion analysis
+- Interactive visualizations
+- KPI cards
+- Business insights
+
+Use a large dashboard image placeholder and a "View Project" button.
+
+========================================
+
+PROJECT 2:
+Food Lover Restaurant
+
+Category:
+Web Development
+
+Description:
+A restaurant website project designed to provide a modern and user-friendly experience for browsing restaurant information and food menus.
+
+Technologies:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Java
+
+Include:
+- Home page
+- Menu page
+- Food items
+- Prices
+- Food descriptions
+- Food images
+- Responsive design
+
+Use the provided project screenshots as visual placeholders if available.
+
+========================================
+
+PROJECT 3:
+Novelix Library
+
+Category:
+Web Development / Database Application
+
+Description:
+An intelligent online library project designed for browsing, selling, and reading books.
+
+Technologies:
+Frontend:
+- HTML
+- CSS
+- JavaScript
+
+Backend:
+- PHP
+
+Database:
+- MySQL
+
+Main Pages:
+- Home
+- Products
+- Content
+- Login
+- Register
+- Search
+- Cart
+- About
+
+Create a professional project card and allow me to add screenshots later.
+
+========================================
+CERTIFICATIONS & TRAINING
+========================================
+
+Create a Certifications section.
+
+Include the following certificates/training:
+
+1. Data Analysis Course
+Platform:
+M3aarf
+
+Issue Date:
+June 4, 2026
+
+2. Applied AI for Healthcare Data
+Topic:
+Machine Learning, Medical Imaging, NLP, and LLMs
+
+Platform:
+ITI / Mahara-Tech
+
+Completion:
+May 30, 2026
+
+3. Ubuntu Linux Essentials
+Platform:
+ITI / Mahara-Tech
+
+Duration:
+7 hours 20 minutes
+
+Completion:
+May 18, 2026
+
+4. IBM SkillsBuild
+Certificate:
+Data Fundamentals
+
+5. Digital Egypt Pioneers Initiative (DEPI)
+Track:
+Soft Skills Track
+
+Include certificate cards with:
+- Certificate title
+- Platform
+- Date
+- Short description
+- "View Certificate" button
+
+Use placeholders for certificate links if the actual URLs are not available.
+
+========================================
+EDUCATION
+========================================
+
+Create an Education section.
+
+Current education:
+Student specializing in Data Analysis / Programming and technology-related studies.
+
+Also show my participation in:
+Digital Egypt Pioneers Initiative (DEPI)
+
+Do NOT invent university names, degrees, grades, or dates that are not provided.
+
+========================================
+PORTFOLIO STRUCTURE
+========================================
+
+Build the website with the following sections:
+
+1. Hero / Home
+2. About Me
+3. Skills
+4. Services
+5. Featured Projects
+6. Certifications
+7. Education
+8. Data Analysis Workflow
+9. Competitive Programming
+10. Contact Me
+
+========================================
+SERVICES
+========================================
+
+Create a Services section with:
+
+Data Analysis:
+- Data Cleaning
+- Data Analysis
+- Exploratory Analysis
+- Business Insights
+
+Dashboard Development:
+- Excel Dashboards
+- Power BI Dashboards
+- Interactive Data Visualization
+- KPI Dashboards
+
+Data Preparation:
+- Power Query
+- Data Transformation
+- Data Modeling
+- Power Pivot
+
+Programming & Web:
+- Python Programming
+- SQL
+- Web Development
+- Database Applications
+
+Keep services realistic for a student / junior-level professional.
+
+========================================
+DATA ANALYSIS WORKFLOW
+========================================
+
+Create a visual timeline showing:
+
+Raw Data
+↓
+Data Cleaning
+↓
+Data Transformation
+↓
+Data Analysis
+↓
+Data Modeling
+↓
+Data Visualization
+↓
+Dashboard
+↓
+Business Insights
+
+Make this section visually impressive.
+
+========================================
+DESIGN
+========================================
+
+Use a premium modern technology-inspired design.
+
+Style:
+- Professional
+- Minimal
+- Modern
+- Clean
+- Elegant
+- Interactive
+- Responsive
+
+Use:
+- Dark modern theme
+- Subtle gradients
+- Glassmorphism elements
+- Smooth animations
+- Professional cards
+- Interactive hover effects
+- Modern typography
+- Clean spacing
+- High-quality icons
+
+Do not make the website look like a generic template.
+
+The website should feel like the portfolio of a serious young Data Analyst / Developer.
+
+========================================
+HOMEPAGE
+========================================
+
+The Hero section should contain:
+
+Mohamed Alaa
+
+Junior Data Analyst
+Data Analysis Student
+Dashboard Developer
+
+Headline:
+
+"Turning Data Into Insights."
+
+Subheadline:
+
+"I transform raw data into clear, interactive dashboards and actionable insights using Excel, Power BI, SQL, and Python."
+
+Buttons:
+- View My Projects
+- Download CV
+- Contact Me
+
+Add professional social media icons with placeholders for:
+- LinkedIn
+- GitHub
+- LeetCode
+- Codeforces
+- Codewars
+
+========================================
+INTERACTIVITY
+========================================
+
+Make the portfolio highly interactive.
+
+Add:
+- Smooth scrolling
+- Animated counters
+- Scroll reveal animations
+- Project filtering
+- Skill animations
+- Hover effects
+- Interactive project cards
+- Certificate modal
+- Image lightbox
+- Responsive navigation
+- Dark/light mode if appropriate
+
+For the Customer Marketing Performance Dashboard project, create a dedicated project detail section where I can later embed or link my Power BI dashboard.
+
+========================================
+CV
+========================================
+
+Add a prominent "Download CV" button.
+
+Use a placeholder for my CV file/link.
+
+Do not create fake education, work experience, phone numbers, emails, or social links.
+
+========================================
+CONTACT
+========================================
+
+Create a professional Contact section with:
+
+- Name
+- Email
+- Subject
+- Message
+
+Add placeholders for:
+- Email
+- LinkedIn
+- GitHub
+
+Do not invent contact information.
+
+========================================
+IMPORTANT CONTENT RULES
+========================================
+
+Do not invent:
+- Jobs I never worked
+- Companies I never worked for
+- Fake clients
+- Fake statistics
+- Fake certificates
+- Fake university degrees
+- Fake experience
+- Fake social media links
+
+Only use the information provided above.
+
+If information is missing, create a clearly marked placeholder that I can edit later.
+
+========================================
+FINAL GOAL
+========================================
+
+The final portfolio must communicate three main things immediately:
+
+1. I am a Data Analysis-focused student.
+2. I can work with Excel, Power BI, SQL, Python, and data visualization.
+3. I have practical projects that demonstrate my technical skills.
+
+The website should be professional enough to submit as my DEPI Session 1 "Portfolio Building" assignment.
+
+Make the final result polished, visually impressive, responsive on mobile/tablet/desktop, and ready to publish online.
